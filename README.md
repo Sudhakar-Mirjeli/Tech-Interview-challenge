@@ -1,14 +1,13 @@
-# Tech-Interview-challenge
-# Harry Potter API - Book Chapter Summary
+Harry Potter API - Book Chapter Summary
 
-## Problem 2 - Web
+### Problem 2 - Web
 
-### **Objective:**  
+### **Objective:
 
 Fetch the list of books from the [Harry Potter API](https://docs.potterdb.com/apis/rest), 
 select the first book, retrieve its chapters, and print the **"summary"** value of the last chapter to the console. 
 The solution also includes error handling to manage cases when the API is unavailable.
----
+
 
 ## **Solution Overview**
 
